@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hey, I’m Demarcus
 
-<!--
-**Demarcusdev/Demarcusdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught aspiring Junior Software Developer currently learning:
 
-Here are some ideas to get you started:
+- 🔷 HTML, CSS, and JavaScript
+- 🐍 Python for scripting and automation
+- 🔧 Git & GitHub for version control
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 I'm building simple projects to level up every day, and I'm open to internship or entry-level opportunities.
+
+Check out my work below — feedback is always welcome!
+
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/demarcus-milton)
